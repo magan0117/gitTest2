@@ -1,6 +1,6 @@
 void main{
 
-printf("computer!\n");
+printf("bug1!\n");
 
 
 }
