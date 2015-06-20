@@ -1,7 +1,7 @@
 void main{
 
 printf("Hello!\n");
-printf("Hello2!\n");
+printf("Helo2!\n");
 
 
 }
